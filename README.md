@@ -17,6 +17,7 @@ Se possível, listar casos de uso. Por exemplo:
 ### Links relacionados a Contexto
 - [Página do Oráculo](https://oraculo.rdstation.com.br/)
 - [Página do Backstage](https://backstage-staging.rdstation.com.br/catalog)
+- [Arquitetura da aplicação](https://github.com/Vinicius-MManganotti/template-lean/blob/main/arquitetura.md) 
 
 ## 💻 Pré-requisitos
 

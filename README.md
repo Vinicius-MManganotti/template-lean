@@ -15,8 +15,8 @@ Se possível, listar casos de uso. Por exemplo:
 `Elencar os motivos pelo qual esta solução foi utilizada, em detrimento de outras soluções. Trazer benefícios/vantagens da utilização desta aplicação em específico.`
 
 ### Links relacionados a Contexto
-- [Página do Oráculo](www.paginadooraculo.com)
-- [Página do Backstage](www.oraculo.com)
+- [Página do Oráculo](https://oraculo.rdstation.com.br/)
+- [Página do Backstage](https://backstage-staging.rdstation.com.br/catalog)
 
 ## 💻 Pré-requisitos
 

@@ -22,9 +22,9 @@ Se possível, listar casos de uso. Por exemplo:
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>.`
+- Você instalou a versão mais recente da [CLI gcloud](https://cloud.google.com/sdk/docs/install);
+- Você realizou a autenticação da gcloud. Caso não, rode `gcloud auth login` e então `gcloud auth configure-docker`;
+- Você está com o [jFrog configurado](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Configura%C3%A7%C3%A3o-do-registro-da-RD-para-consumir-artefatos-privados-no-jFrog-(NPM)) em sua máquina.
 
 ## 🚀 Desenvolvendo em ambiente local
 

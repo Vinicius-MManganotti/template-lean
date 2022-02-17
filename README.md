@@ -23,27 +23,26 @@ Se possível, listar casos de uso. Por exemplo:
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você está com o [Docker](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Como-configurar-o-ambiente-de-desenvolvimento-utilizando-Docker) instalado em sua máquina;
+- Você está com o [Docker instalado](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Como-configurar-o-ambiente-de-desenvolvimento-utilizando-Docker) em sua máquina;
 - Você está com o [jFrog configurado](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Configura%C3%A7%C3%A3o-do-registro-da-RD-para-consumir-artefatos-privados-no-jFrog-(NPM)) em sua máquina;
 - `caso a aplicação necessite de mais algum pré-requisito, insira aqui`
 
 ## 🚀 Desenvolvendo em ambiente local
 
-### Passo a passo da instalação em ambiente local
-
-`Inserir aqui o passo a passo de como a pessoa desenvolvedora conseguirá realizar a instalação em ambiente local.`
-
 ### Passo a passo para rodar a aplicação em abiente local
 
-`Além do passo a passo para a instalação, é importante trazer as informações sobre como rodar a aplicação no ambiente.`
+Para rodar a aplicação em ambiente local, faça o seguinte comando no terminal:
+`$ make start`
+`Caso a aplicação em específico tenha mais algum passo para rodar corretamente, insira aqui o comando.`
 
 ## 🎮 Utilizando a aplicação
 
-`Esta sessão é dedicada para trazer exemplos de comandos comuns que podem ser utilizados na aplicação. Estes comandos mais comuns podem ser apresentados em formato de passo a passo.`
+`Esta sessão é dedicada para trazer exemplos de comandos comuns que podem ser utilizados na aplicação. Estes comandos mais comuns podem ser apresentados em formato de passo a passo. Exemplo:`
 
-### Passo a passo de como manipular a aplicação
+Para resetar a aplicação (ação recomendada antes de iniciar a manipular o código), faça o seguinte comando:
+`$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=development
 
-`Inserir aqui o passo a passo de como a pessoa desenvolvedora conseguirá manipular por meio dos comandos.`
+$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=test`
 
 ---
 > Gerado através do Backstage ♦️

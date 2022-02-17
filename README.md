@@ -23,9 +23,9 @@ Se possível, listar casos de uso. Por exemplo:
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente da [CLI gcloud](https://cloud.google.com/sdk/docs/install);
-- Você realizou a autenticação da gcloud. Caso não, rode `gcloud auth login` e então `gcloud auth configure-docker`;
-- Você está com o [jFrog configurado](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Configura%C3%A7%C3%A3o-do-registro-da-RD-para-consumir-artefatos-privados-no-jFrog-(NPM)) em sua máquina.
+- Você está com o [Docker](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Como-configurar-o-ambiente-de-desenvolvimento-utilizando-Docker) instalado em sua máquina;
+- Você está com o [jFrog configurado](https://github.com/ResultadosDigitais/rd-product-team-wiki/wiki/Configura%C3%A7%C3%A3o-do-registro-da-RD-para-consumir-artefatos-privados-no-jFrog-(NPM)) em sua máquina;
+- `caso a aplicação necessite de mais algum pré-requisito, insira aqui`
 
 ## 🚀 Desenvolvendo em ambiente local
 

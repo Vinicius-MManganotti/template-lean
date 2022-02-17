@@ -41,8 +41,9 @@ Para rodar a aplicação em ambiente local, faça o seguinte comando no terminal
 
 Para resetar a aplicação (ação recomendada antes de iniciar a manipular o código), faça o seguinte comando:
 
-`$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=development
-$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=test`
+```$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=development
+$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=test
+```
 
 ---
 > Gerado através do Backstage ♦️

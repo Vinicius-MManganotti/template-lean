@@ -16,6 +16,7 @@ Se possível, listar casos de uso. Por exemplo:
 
 ### Links relacionados a Contexto
 - [Página do Oráculo](www.paginadooraculo.com)
+- [Página do Backstage](www.oraculo.com)
 
 ## 💻 Pré-requisitos
 
@@ -43,5 +44,5 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 `Inserir aqui o passo a passo de como a pessoa desenvolvedora conseguirá manipular por meio dos comandos.`
 
-
+---
 > Gerado através do Backstage ♦️

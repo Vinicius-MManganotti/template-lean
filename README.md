@@ -44,6 +44,10 @@ Para resetar a aplicação (ação recomendada antes de iniciar a manipular o c�
 ```$ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=development
 $ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=test
 ```
+## 🧩 Outros documentos importantes sobre a aplicação
+
+- [Realizando Deploy](www.linkparadeploy.com)
+`links para documentos que julgar importante serem referenciados`
 
 ---
 > Gerado através do Backstage ♦️

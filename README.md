@@ -31,10 +31,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ### Passo a passo para rodar a aplicação em abiente local
 
-Para rodar a aplicação em ambiente local, faça o seguinte comando no terminal:
-`
-$ make start
-`
+Para rodar a aplicação em ambiente local, faça o seguinte comando no terminal:  
+
+`$ make start`  
+
 `Caso a aplicação em específico tenha mais algum passo para rodar corretamente, insira aqui o comando.`
 
 ## 🎮 Utilizando a aplicação

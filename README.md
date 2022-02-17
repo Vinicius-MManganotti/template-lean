@@ -46,7 +46,7 @@ $ docker-compose run feature_flagger_ui rails db:reset RAILS_ENV=test
 ```
 ## 🧩 Outros documentos importantes sobre a aplicação
 
-- [Realizando Deploy](www.linkparadeploy.com)
+- [Realizando Deploy](https://github.com/Vinicius-MManganotti/template-lean/blob/main/deploy.md)
 - `links para documentos que julgar importante serem referenciados`
 
 ---

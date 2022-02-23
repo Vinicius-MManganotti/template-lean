@@ -9,3 +9,7 @@
 3. 
 
 ## Deploy em staging
+
+1. Crie a nova branch no Github com as alterações feitas;
+2. Crie o PR no Github e espera pela aprovação;
+3. 

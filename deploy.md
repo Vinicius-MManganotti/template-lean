@@ -12,4 +12,5 @@
 
 1. Crie a nova branch no Github com as alterações feitas;
 2. Crie o PR no Github e espera pela aprovação;
-3. 
+3. .
+4. Aprove o Deploy em Staging através do CircleCI

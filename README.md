@@ -12,8 +12,6 @@
   * [🎮 Utilizando a aplicação](#---utilizando-a-aplica--o)
   * [🧩 Outros documentos importantes sobre a aplicação](#---outros-documentos-importantes-sobre-a-aplica--o)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## 🗺 Contexto
 
 ### O que esta aplicação faz  
